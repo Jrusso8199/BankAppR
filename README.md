@@ -42,3 +42,9 @@ The Bank app is a console-based application that simulates banking operations. A
 -   A an employee, I can view a log of all transactions.
     -   2 points
 
+## Setup
+
+### Requirements
+1. Lombok
+2. Spring JPA
+3. PostgreSQL 
